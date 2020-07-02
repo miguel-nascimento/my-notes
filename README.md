@@ -1,6 +1,7 @@
 # My Notes
 
 This repo is a place to share my personal notes with my friends and nice persons like you who are reading this right now! 😄
+
 My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/awesome). It's *awesome* how much things you can learn just making a quickly search.
 
 ## Great Tools
