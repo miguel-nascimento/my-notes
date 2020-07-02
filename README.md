@@ -45,6 +45,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [⭐ Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness): Another awesome list that contains awesome things!
 - [⭐ List of lists that contains another list](https://github.com/jnv/lists): Lists.
 - [⭐ Shell Bible](https://github.com/dylanaraps/pure-sh-bible): Pure Bash bible.
+- [Algorithm and Data Structure](https://github.com/trekhleb/javascript-algorithms): and their implementation in Javascript, but helps a lot!
 - [Nand2Tetris](https://www.nand2tetris.org/): Course for building a general-purpose computer system
 - [Software Architecture](https://github.com/justinamiller/SoftwareArchitect): what is, important skills and how to be good.
 - [Open Source Computer Science University](https://github.com/ossu/computer-science)
