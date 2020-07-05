@@ -114,7 +114,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [Ricepedia](https://rizonrice.club/): Rice wiki with various ideas to make a great rice.
 - [Rice Ideas](https://eti.tf/desktops/): Personal Eti desktops images.
 - [Another Rice Ideas](https://onodera-punpun.github.io/ricespo/): Onodera Punpun gallery.
-- [RiceDB](ricedb.dfg.monster): Rice Rizon database of users with respectives rices.
+- [RiceDB](https://ricedb.dfg.monster/): Rice Rizon database of users with respectives rices.
 - [Alnj dotfiles](https://github.com/alnj/dotfiles): from a great guy in [/r/unixporn](https://www.reddit.com/r/unixporn/).
 - [Flexbox Froggy](https://flexboxfroggy.com/): Learn flexbox playing!
 - [unDraw](https://undraw.co): Open-source illustrations for any idea you can imagine and create.
