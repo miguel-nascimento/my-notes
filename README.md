@@ -33,6 +33,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [Foam](https://github.com/foambubble/foam): A personal knowledge management and sharing system.
 - [Carbon](https://carbon.now.sh): Share styled images of your code.
 - [0x0](https://0x0.st/): Great site for sharing images.
+- [keybr](https://www.keybr.com/): Website that help a lot with typing.
 - [Emoji Search](https://emoji.muan.co/): Nice tool for picking the best emoji 👌.
 - [Huge IPTV list](https://github.com/iptv-org/iptv): Just a IPTV list.
 
@@ -45,6 +46,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [⭐ Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness): Another awesome list that contains awesome things!
 - [⭐ List of lists that contains another list](https://github.com/jnv/lists): Lists.
 - [⭐ Shell Bible](https://github.com/dylanaraps/pure-sh-bible): Pure Bash bible.
+- [Essencial Math](https://github.com/yangyutu/EssentialMath): Jupyter Notebook that teaches the essencial math that is used in programming.
 - [Algorithm and Data Structure](https://github.com/trekhleb/javascript-algorithms): and their implementation in Javascript, but helps a lot!
 - [Nand2Tetris](https://www.nand2tetris.org/): Course for building a general-purpose computer system
 - [Software Architecture](https://github.com/justinamiller/SoftwareArchitect): what is, important skills and how to be good.
@@ -57,6 +59,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [Hacker Rank](https://www.hackerrank.com/): Algorithm and data sctruture problems.
 - [Front-end Challenges](https://github.com/LFeh/frontend-challenges)
 - [List of great websites that a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [Discord Communities](https://github.com/mhxion/awesome-discord-communities): Some discord servers about programming.
 - [🇧🇷 Canais brasileiros de Programação](https://github.com/carolcodes/youtube-br-desenvolvimento)
 
 ## Hacking and Pentesting
