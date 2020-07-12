@@ -40,6 +40,8 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 ## Useful things and Project Ideas
 - [⭐ Coding Interview](https://github.com/jwasham/coding-interview-university): To-do list of study topics for becoming a software engineer.
 - [⭐ Project based Learning](https://github.com/tuvtran/project-based-learning): a list of programming tutorials in which learners build an application from scratch.
+- [⭐ App Ideas Projects](https://github.com/florinpop17/app-ideas): Some great ideas of projets.
+- [⭐ Build your own x](https://github.com/danistefanovic/build-your-own-x): Another project based learning ideas.
 - [⭐ Pro/g/ramming Project Ideas](https://imgur.com/a/3DxEa1o): 4chan Daily Programming Thread Project Ideas
 - [⭐ Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [⭐ Awesome awesome list](https://github.com/sindresorhus/awesome)
@@ -63,6 +65,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [Front-end Challenges](https://github.com/LFeh/frontend-challenges)
 - [List of great websites that a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities): Some discord servers about programming.
+- [GameDev Blog](https://github.com/a327ex/blog): Blog of a327ex, creator of [BYTEPATH](https://github.com/a327ex/BYTEPATH), a awesome Lua game!
 - [🇧🇷 Canais brasileiros de Programação](https://github.com/carolcodes/youtube-br-desenvolvimento)
 
 ## Hacking and Pentesting
@@ -80,6 +83,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 
 ## Machine Learning and Data Science
 - [Data Science Career](https://github.com/firmai/data-science-career): Information that might help with the job search.
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome machine learning frameworks, libraries and software (by language).
 - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io): It's a glossary, but teaches many things.
 - [Basics of Machine Learning guide](https://github.com/madewithml/basics)
 - [Virgilio](https://virgili0.github.io/Virgilio/): Data Science and Machine Learning guide.
