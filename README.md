@@ -73,6 +73,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
 - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ## Programming Languages Guides
 - [Learn C](https://www.learn-c.org/): just learn C lol.
