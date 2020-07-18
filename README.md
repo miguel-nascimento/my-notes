@@ -21,6 +21,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [Manin](https://github.com/3b1b/manim): A Python animation engine for explanatory math videos.
 - [Gooey](https://github.com/chriskiehl/Gooey): Python CLI to GUI.
 - [WRK](https://github.com/wg/wrk): A HTTP benchmarking tool.
+- [Super Expressive](https://github.com/francisrstokes/super-expressive): Javascript library thats make regex in natural language.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium): Chrome without data mining.
 - [Rofi](https://github.com/davatorium/rofi): Window switcher and Application launcher.
 - [Outline](https://github.com/outline/outline): Your own wiki created using React and Node.js.
@@ -113,6 +114,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [Clean Code tips to Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Javascript Questions](https://github.com/lydiahallie/javascript-questions)
 - [Electron React Typescript Boilerplate](https://github.com/diego3g/electron-typescript-react): A great boilerplate for React Electron applications.
+- [React Use](https://github.com/streamich/react-use): Collection of essencial React Hooks.
 - [CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu): Web Programming with Python and Javascript.
 - [🇧🇷 Simulação do Big Bang](https://www.youtube.com/watch?v=C5_7IV9XFd4&feature=youtu.be)
 - [🇧🇷 Javascript em um Gist](https://gist.github.com/danielbonifacio/fd7f0100e8eae33dd1769f7c40182458?fbclid=IwAR0in67c1SzRZFiMYuJNNEvWk1MyLCntZ_HLB5LvYjlRHBZp4a-QFWZqs7Y)
@@ -128,6 +130,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [unDraw](https://undraw.co): Open-source illustrations for any idea you can imagine and create.
 - [Dribble](https://dribbble.com/): UI/UX inspirations.
 - [Design notes](https://www.designnotes.co/): A free resource library for product designers.
+- [Design Resources](https://github.com/bradtraversy/design-resources-for-developers): Curated list of free design and UI resources.
 - [Dotgrid](https://github.com/hundredrabbits/dotgrid): Grid-based vector drawing software designed to create logos, icons and type. Exports to both PNG and SVG files. Avaliable [here](https://hundredrabbits.itch.io/dotgrid)
 - [Ronin](https://github.com/hundredrabbits/Ronin): Procedural graphics tool designed to automate simple graphical tasks, like resizing, cropping, coloring, and generating algorithmic images. Avaliable [here](https://hundredrabbits.itch.io/ronin)
 - [Scientifica](https://github.com/NerdyPepper/scientifica): A 8bit font style.
