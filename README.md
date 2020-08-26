@@ -83,6 +83,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [59 ways to write better Python code](https://github.com/SigmaQuan/Better-Python-59-Ways)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 
+
 ## Machine Learning and Data Science
 - [Data Science Career](https://github.com/firmai/data-science-career): Information that might help with the job search.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome machine learning frameworks, libraries and software (by language).
@@ -110,6 +111,8 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 ## Javascript and Node ecosystem
 - [Best Pratices with Node.js](https://github.com/goldbergyoni/nodebestpractices)
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+- [Javascript Guide](https://javascript.info/)
+- [Fullstack with Javascript](https://fullstackopen.com/)
 - [You dont know JS](https://github.com/getify/You-Dont-Know-JS): Book that teaches JS in the right way.
 - [Clean Code tips to Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Javascript Questions](https://github.com/lydiahallie/javascript-questions)
