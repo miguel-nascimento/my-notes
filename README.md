@@ -134,6 +134,8 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [Flexbox Froggy](https://flexboxfroggy.com/): Learn flexbox playing!
 - [unDraw](https://undraw.co): Open-source illustrations for any idea you can imagine and create.
 - [Dribble](https://dribbble.com/): UI/UX inspirations.
+- [Figma](https://www.figma.com/): UI/UX free design tool.
+- [Rive](https://rive.app/): Motion graphics free tool
 - [Design notes](https://www.designnotes.co/): A free resource library for product designers.
 - [Design Resources](https://github.com/bradtraversy/design-resources-for-developers): Curated list of free design and UI resources.
 - [Dotgrid](https://github.com/hundredrabbits/dotgrid): Grid-based vector drawing software designed to create logos, icons and type. Exports to both PNG and SVG files. Avaliable [here](https://hundredrabbits.itch.io/dotgrid)
