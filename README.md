@@ -70,7 +70,7 @@ My favorite thing in Github is [awesome lists](https://github.com/sindresorhus/a
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities): Some discord servers about programming.
 - [GameDev Blog](https://github.com/a327ex/blog): Blog of a327ex, creator of [BYTEPATH](https://github.com/a327ex/BYTEPATH), a awesome Lua game!
 - [🇧🇷 Canais brasileiros de Programação](https://github.com/carolcodes/youtube-br-desenvolvimento)
-
+- [Michael Abrash’s Graphics Programming Black Book, Special Edition](http://www.jagregory.com/abrash-black-book/)
 ## Hacking and Pentesting
 - [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE): Hundreds of ethical hacking, penetration testing, cyber security and computer science resources.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
